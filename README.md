@@ -15,5 +15,5 @@ Jetpack Compose is a modern Android UI toolkit that simplifies and accelerates U
 
 2. Kotlin Programming Language
 Kotlin is a modern, concise, and expressive programming language that is fully interoperable with Java. It is the preferred language for Android app development, offering concise syntax and enhanced features.
-![basic Unit converter app](https://github.com/nb1023/UnitConverter-App/assets/95626173/53ca3470-76f2-43eb-9b39-eb992be7c1af)
+![Screenshot 2024-01-28 011943](https://github.com/nb1023/UnitConverter-App/assets/95626173/f3b1d86d-ff7f-4020-83ad-bea8d1419f97)
 
